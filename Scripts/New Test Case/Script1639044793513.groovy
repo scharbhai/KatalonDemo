@@ -27,5 +27,3 @@ WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/inp
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'NOZHw6sL/1I=')
 
-WebUI.closeBrowser()
-
